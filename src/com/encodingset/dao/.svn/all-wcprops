@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AdtechBI/!svn/ver/1267/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/dao
+END
+JDBCEncodeMapDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/dao/JDBCEncodeMapDao.java
+END
+JDBCLocalFieldDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/dao/JDBCLocalFieldDao.java
+END
+DaoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/AdtechBI/!svn/ver/1267/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/dao/DaoFactory.java
+END
+JDBCDataSetDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/dao/JDBCDataSetDao.java
+END

@@ -1,0 +1,8 @@
+#Fri Jan 24 12:35:56 CST 2014
+eclipse.preferences.version=1
+encoding//WebContent/page/error.jsp=UTF-8
+encoding//src/DBLoginKey.properties=UTF-8
+encoding//src/com/encodingset/util/Druid4MYSQL.properties=UTF-8
+encoding//src/com/encodingset/util/Druid4ORACLE.properties=UTF-8
+encoding//src/com/encodingset/util/Druid4SQLSERVER.properties=UTF-8
+encoding/<project>=UTF-8

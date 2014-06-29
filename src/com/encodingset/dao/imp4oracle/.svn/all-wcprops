@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/AdtechBI/!svn/ver/1267/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/dao/imp4oracle
+END
+JDBCEncodeMapDaoImp4Oracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/AdtechBI/!svn/ver/1267/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/dao/imp4oracle/JDBCEncodeMapDaoImp4Oracle.java
+END
+JDBCLocalFieldDaoImp4Oracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/dao/imp4oracle/JDBCLocalFieldDaoImp4Oracle.java
+END
+JDBCDataSetDaoImp4Oracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/AdtechBI/!svn/ver/1267/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/dao/imp4oracle/JDBCDataSetDaoImp4Oracle.java
+END

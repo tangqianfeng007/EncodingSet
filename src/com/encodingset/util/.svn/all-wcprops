@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AdtechBI/!svn/ver/1267/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util
+END
+PKGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util/PKGenerator.java
+END
+DBTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util/DBTool.java
+END
+AESTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util/AESTool.java
+END
+ReadProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util/ReadProperties.java
+END
+PageTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util/PageTool.java
+END
+Druid4MYSQL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/AdtechBI/!svn/ver/1267/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util/Druid4MYSQL.properties
+END
+Druid4ORACLE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util/Druid4ORACLE.properties
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util/Page.java
+END
+Druid4SQLSERVER.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/AdtechBI/!svn/ver/1168/%E5%B7%A5%E4%BD%9C%E5%BA%93/EncodingSet/src/com/encodingset/util/Druid4SQLSERVER.properties
+END
